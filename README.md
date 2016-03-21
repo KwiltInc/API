@@ -1,5 +1,5 @@
 # API
-Kwilt Photo Stream API
+Kwilt Photo Stream API: 
 One free, cross platform API featuring 15 of the most popular photo sources from social media, cloud storage, mobile gallery and home in one easy to integrate photo stream!
 
 Visit the Kwilt developers resource at https://developer.kwilt.it/ and help your users to access ALL their digital memories right within your apps or web services now!
